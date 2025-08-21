@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Diabetikus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+250649f7e0ed76018e22fef536c33250a731669d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b0ffb54a7af7810992253ca05704278e0d36de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Diabetikus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Diabetikus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
