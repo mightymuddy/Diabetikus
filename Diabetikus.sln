@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diabetikus", "Diabetikus.csproj", "{86F40256-C0B4-4606-A5D4-312627EDBA14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnection", "..\DatabaseConnection\DatabaseConnection.csproj", "{CADF3B0C-940F-47A1-AD82-41280CCA5D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F40256-C0B4-4606-A5D4-312627EDBA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F40256-C0B4-4606-A5D4-312627EDBA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F40256-C0B4-4606-A5D4-312627EDBA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F40256-C0B4-4606-A5D4-312627EDBA14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADF3B0C-940F-47A1-AD82-41280CCA5D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADF3B0C-940F-47A1-AD82-41280CCA5D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADF3B0C-940F-47A1-AD82-41280CCA5D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADF3B0C-940F-47A1-AD82-41280CCA5D05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6D969D7-2430-4E65-8249-33EBA8C6C27F}
+	EndGlobalSection
+EndGlobal

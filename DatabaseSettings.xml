@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<databaseSettings name="DiabetrixDB" ID="0">
+		<field>
+			<DatabaseEnigne>SQLServer</DatabaseEnigne>
+			<Server>DESTROYER\CLUBSQLXPRESS</Server>
+			<Provider>System.Data.SQLClient"</Provider>
+			<Database>DiabetikusDB</Database>
+			<Trusted_Connection>true</Trusted_Connection>
+			<Trusted_Certification>true</Trusted_Certification> 
+		</field>
+	</databaseSettings>
+</configuration>
